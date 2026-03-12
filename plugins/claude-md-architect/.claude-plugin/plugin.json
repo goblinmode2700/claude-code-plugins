@@ -1,0 +1,12 @@
+{
+  "name": "claude-md-architect",
+  "version": "1.0.0",
+  "description": "Generate production-grade CLAUDE.md files by analyzing your codebase. Extracts real patterns, conventions, and architecture constraints — not generic templates.",
+  "author": {
+    "name": "NecessitasLabs"
+  },
+  "homepage": "https://github.com/goblinmode2700/claude-code-plugins",
+  "repository": "https://github.com/goblinmode2700/claude-code-plugins",
+  "license": "MIT",
+  "keywords": ["claude-md", "governance", "architecture", "code-analysis", "ai-agents"]
+}

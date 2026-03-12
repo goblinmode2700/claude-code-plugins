@@ -1,0 +1,27 @@
+{
+  "name": "necessitas-tools",
+  "owner": {
+    "name": "NecessitasLabs"
+  },
+  "metadata": {
+    "description": "Production-grade Claude Code plugins for serious developers. CLAUDE.md generation, sprint management, and more."
+  },
+  "plugins": [
+    {
+      "name": "claude-md-architect",
+      "source": "./plugins/claude-md-architect",
+      "description": "Generate production-grade CLAUDE.md files by analyzing your codebase. Extracts real patterns, conventions, and architecture constraints.",
+      "version": "1.0.0",
+      "keywords": ["claude-md", "governance", "architecture", "code-analysis"],
+      "category": "development-workflows"
+    },
+    {
+      "name": "sprint-manager",
+      "source": "./plugins/sprint-manager",
+      "description": "Structured development sprints with task breakdown, progress tracking, and quality gates.",
+      "version": "1.0.0",
+      "keywords": ["sprint", "project-management", "workflow", "quality-gates"],
+      "category": "development-workflows"
+    }
+  ]
+}

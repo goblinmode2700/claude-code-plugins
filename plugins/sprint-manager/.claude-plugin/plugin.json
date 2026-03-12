@@ -1,0 +1,12 @@
+{
+  "name": "sprint-manager",
+  "version": "1.0.0",
+  "description": "Structured development sprints with task breakdown, progress tracking, and quality gates. Turns feature requests into shipped code through a disciplined 4-phase workflow.",
+  "author": {
+    "name": "NecessitasLabs"
+  },
+  "homepage": "https://github.com/goblinmode2700/claude-code-plugins",
+  "repository": "https://github.com/goblinmode2700/claude-code-plugins",
+  "license": "MIT",
+  "keywords": ["sprint", "project-management", "development-workflow", "quality-gates", "task-management"]
+}
