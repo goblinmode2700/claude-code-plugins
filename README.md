@@ -22,9 +22,10 @@ Structure AI-assisted development sprints with phase gates, quality checkpoints,
 
 Or install individual plugins by cloning this repo and adding the plugin directory to your Claude Code config.
 
-## Free Online Tool
+## Free Online Tools
 
-Try our **[CLAUDE.md Generator](https://necessitaslabs.vercel.app)** — a free web tool that generates production CLAUDE.md files for any project. No signup required.
+- **[CLAUDE.md Generator](https://necessitaslabs.vercel.app)** — Generate production CLAUDE.md governance files for any project. No signup required.
+- **[Resume Job Fit Scorer](https://necessitaslabs.vercel.app/resume-scorer)** — Paste your resume + job description, get an instant ATS match score with skill gap analysis. 100% free, runs in your browser.
 
 ## Premium Tools
 
